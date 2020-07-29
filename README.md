@@ -8,4 +8,4 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 Information of three months of 2020 was downloaded from [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. The data was cleaned and appended into one file using Pandas.
 
-The final report and dashboard has been uploaded in [Tableau Public](https://public.tableau.com/profile/ana.cifuentes#!/vizhome/CityBikeNYC_15959861668270/2020CityBikeNYCStory?publish=yes).
+The final report and dashboard have been uploaded in [Tableau Public](https://public.tableau.com/profile/ana.cifuentes#!/vizhome/CityBikeNYC_15959861668270/2020CityBikeNYCStory?publish=yes).
